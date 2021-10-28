@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**wxy12151/wxy12151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🔭 I’m currently studying on UCL in London
 
 🌱 I’m currently learning Integrated Machine Learning Systems
